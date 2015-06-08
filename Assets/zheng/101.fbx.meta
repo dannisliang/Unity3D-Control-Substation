@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: 4882b5871d2d8b64cb83d3d922843f95
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 1_______
+    100004: 1__________
+    100006: 1___________2
+    100008: 1___________2_MeshPart0
+    100010: 1___________2_MeshPart1
+    100012: ______032
+    100014: ______034
+    100016: ______035
+    100018: ______036
+    100020: ______037
+    100022: _______2
+    100024: Box001
+    100026: Box002
+    100028: Cylinder001
+    100030: Cylinder002
+    100032: Cylinder003
+    100034: Cylinder004
+    100036: zuobiao_1
+    400000: //RootNode
+    400002: 1_______
+    400004: 1__________
+    400006: 1___________2
+    400008: 1___________2_MeshPart0
+    400010: 1___________2_MeshPart1
+    400012: ______032
+    400014: ______034
+    400016: ______035
+    400018: ______036
+    400020: ______037
+    400022: _______2
+    400024: Box001
+    400026: Box002
+    400028: Cylinder001
+    400030: Cylinder002
+    400032: Cylinder003
+    400034: Cylinder004
+    400036: zuobiao_1
+    2300000: 1___________2_MeshPart0
+    2300002: 1___________2_MeshPart1
+    2300004: ______032
+    2300006: ______034
+    2300008: ______035
+    2300010: ______036
+    2300012: ______037
+    2300014: Box001
+    2300016: Box002
+    2300018: Cylinder001
+    2300020: Cylinder002
+    2300022: Cylinder003
+    2300024: Cylinder004
+    3300000: 1___________2_MeshPart0
+    3300002: 1___________2_MeshPart1
+    3300004: ______032
+    3300006: ______034
+    3300008: ______035
+    3300010: ______036
+    3300012: ______037
+    3300014: Box001
+    3300016: Box002
+    3300018: Cylinder001
+    3300020: Cylinder002
+    3300022: Cylinder003
+    3300024: Cylinder004
+    4300000: 1___________2_MeshPart0
+    4300002: 1___________2_MeshPart1
+    4300004: ______032
+    4300006: ______034
+    4300008: ______035
+    4300010: ______036
+    4300012: ______037
+    4300014: Box001
+    4300016: Cylinder001
+    4300018: Cylinder002
+    4300020: Cylinder003
+    4300022: Cylinder004
+    4300024: Box002
+    7400000: C4D Animation Take
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  userData: 

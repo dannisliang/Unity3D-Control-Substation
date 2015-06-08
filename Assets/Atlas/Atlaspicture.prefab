@@ -1,0 +1,371 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: Atlaspicture
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  material: {fileID: 2100000, guid: b445155381a19484fa11903327e090f1, type: 2}
+  mSprites:
+  - name: 1(1)
+    x: 0
+    y: 725
+    width: 337
+    height: 299
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 137
+    paddingRight: 166
+    paddingTop: 114
+    paddingBottom: 67
+  - name: 1(2)
+    x: 338
+    y: 588
+    width: 368
+    height: 216
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 111
+    paddingRight: 161
+    paddingTop: 152
+    paddingBottom: 112
+  - name: 10
+    x: 1702
+    y: 948
+    width: 246
+    height: 76
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 212
+    paddingRight: 182
+    paddingTop: 212
+    paddingBottom: 192
+  - name: 11
+    x: 1047
+    y: 117
+    width: 52
+    height: 239
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 313
+    paddingRight: 275
+    paddingTop: 143
+    paddingBottom: 98
+  - name: 12
+    x: 338
+    y: 317
+    width: 222
+    height: 270
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 210
+    paddingRight: 208
+    paddingTop: 116
+    paddingBottom: 94
+  - name: 13
+    x: 561
+    y: 390
+    width: 148
+    height: 197
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 237
+    paddingRight: 255
+    paddingTop: 157
+    paddingBottom: 126
+  - name: 14
+    x: 1104
+    y: 801
+    width: 203
+    height: 223
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 216
+    paddingRight: 221
+    paddingTop: 127
+    paddingBottom: 130
+  - name: 15
+    x: 948
+    y: 677
+    width: 88
+    height: 142
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 274
+    paddingRight: 278
+    paddingTop: 171
+    paddingBottom: 167
+  - name: 16
+    x: 261
+    y: 117
+    width: 73
+    height: 86
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 283
+    paddingRight: 284
+    paddingTop: 199
+    paddingBottom: 195
+  - name: 17
+    x: 0
+    y: 442
+    width: 325
+    height: 282
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 144
+    paddingRight: 171
+    paddingTop: 83
+    paddingBottom: 115
+  - name: 18
+    x: 712
+    y: 820
+    width: 391
+    height: 204
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 144
+    paddingRight: 105
+    paddingTop: 149
+    paddingBottom: 127
+  - name: 19
+    x: 0
+    y: 204
+    width: 329
+    height: 237
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 134
+    paddingRight: 177
+    paddingTop: 138
+    paddingBottom: 105
+  - name: 2
+    x: 712
+    y: 574
+    width: 235
+    height: 245
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 175
+    paddingRight: 230
+    paddingTop: 141
+    paddingBottom: 94
+  - name: 20
+    x: 561
+    y: 40
+    width: 117
+    height: 276
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 256
+    paddingRight: 267
+    paddingTop: 115
+    paddingBottom: 89
+  - name: 21
+    x: 712
+    y: 96
+    width: 198
+    height: 260
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 213
+    paddingRight: 229
+    paddingTop: 135
+    paddingBottom: 85
+  - name: 22
+    x: 712
+    y: 357
+    width: 241
+    height: 216
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 196
+    paddingRight: 203
+    paddingTop: 135
+    paddingBottom: 129
+  - name: 23
+    x: 911
+    y: 9
+    width: 135
+    height: 347
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 258
+    paddingRight: 247
+    paddingTop: 75
+    paddingBottom: 58
+  - name: 3
+    x: 338
+    y: 805
+    width: 373
+    height: 219
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 116
+    paddingRight: 151
+    paddingTop: 159
+    paddingBottom: 102
+  - name: 4
+    x: 0
+    y: 55
+    width: 260
+    height: 148
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 190
+    paddingRight: 190
+    paddingTop: 178
+    paddingBottom: 154
+  - name: 5
+    x: 1308
+    y: 902
+    width: 196
+    height: 122
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 235
+    paddingRight: 209
+    paddingTop: 202
+    paddingBottom: 156
+  - name: 6
+    x: 1702
+    y: 871
+    width: 246
+    height: 76
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 212
+    paddingRight: 182
+    paddingTop: 212
+    paddingBottom: 192
+  - name: 7
+    x: 1505
+    y: 923
+    width: 196
+    height: 101
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 230
+    paddingRight: 214
+    paddingTop: 180
+    paddingBottom: 199
+  - name: 8
+    x: 1104
+    y: 561
+    width: 52
+    height: 239
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 313
+    paddingRight: 275
+    paddingTop: 143
+    paddingBottom: 98
+  - name: 9
+    x: 338
+    y: 46
+    width: 222
+    height: 270
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 210
+    paddingRight: 208
+    paddingTop: 116
+    paddingBottom: 94
+  mPixelSize: 1
+  mReplacement: {fileID: 0}
+  mCoordinates: 0
+  sprites: []
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1
